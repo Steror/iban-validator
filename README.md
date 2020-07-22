@@ -1,2 +1,2 @@
-# IBAN Validator
- Validates IBAN strings
+# iban-validator
+ 
